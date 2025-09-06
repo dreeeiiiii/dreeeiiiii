@@ -16,7 +16,7 @@ My focus is on **clean, scalable, and maintainable** code that makes both users 
 - Node.js • Express.js • PostgreSQL
 
 **Tools**
-- Git & GitHub • Docker • Postman • Neon (Cloud PostgreSQL)
+- Git & GitHub  • Neon (Cloud PostgreSQL)
 
 ---
 
